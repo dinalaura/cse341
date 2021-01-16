@@ -29,6 +29,9 @@
 Welcome to my Heroku app. Here I will share some of my work on backend development. I'm learning PHP and jQuery; last semester, I learned JavaScript and Advanced CSS. Also, I'm learning English as I go with this project. I built this homepage using HTML, PHP, CSS, and Bootstrap. I'll add all of my work above on the "Assignments link."</p>
   </div>
 </div>
+<footer>
+  
+</footer>
 
 <?php
 // phpinfo();

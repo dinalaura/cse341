@@ -20,7 +20,13 @@ form button {
 }
 
 .card{
+    margin-bottom: 1em;
     margin-top: 1em;
     margin-left: auto;
     margin-right: auto;
+}
+
+footer{
+    background-color: #212529;
+    height: 3em;
 }
