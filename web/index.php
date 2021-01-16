@@ -17,8 +17,10 @@
             </form>
           </nav>
       </nav>
-
-<h1>Dina Moreno - CSE 341</h1>
+      <div id="header">
+    <h1>Dina Moreno</h1>
+<h2>CSE 341 Assignments</h2>
+</div>
 
 <?php
 // phpinfo();

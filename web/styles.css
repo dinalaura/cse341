@@ -1,3 +1,20 @@
 form button {
     color:white !important;
 }
+
+h1{
+    font-size: 5em;
+}
+
+h2{
+    font-size: 2em;
+}
+
+h1, h2{
+    font-weight: lighter;
+}
+
+#header {
+    background-color: rgb(168, 219, 202);
+    padding: 3em;
+}
