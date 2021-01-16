@@ -10,7 +10,7 @@ form button {
     font-size: 2em;
 }
 
-#header h1, h2{
+#header h1, #header h2{
     font-weight: lighter;
 }
 
