@@ -30,11 +30,12 @@ Welcome to my Heroku app. Here I will share some of my work on backend developme
   </div>
 </div>
 <footer>
-  
-</footer>
-
 <?php
 // phpinfo();
+echo "Today is" . "date(l)" . "Y-m-d";
 ?>
+</footer>
+
+
 </body>
 </html>
