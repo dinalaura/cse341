@@ -10,16 +10,13 @@
 </head>
 <body>
 <nav class="navbar navbar-dark bg-dark">
-  <!-- Navbar content -->
-</nav>
-
-<nav class="navbar navbar-dark bg-primary">
-  <!-- Navbar content -->
-</nav>
-
-<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
-  <!-- Navbar content -->
-</nav>
+        <nav class="navbar navbar-light">
+            <form class="container-fluid justify-content-start">
+             <a href="https://dina-moreno-cse341.herokuapp.com/"> <button class="btn btn-outline-success me-2" type="button">Dina Moreno</button></a>
+             <a href="https://dina-moreno-cse341.herokuapp.com/assingments.html"> <button class="btn btn-sm btn-outline-secondary" type="button">Assignments</button> </a>
+            </form>
+          </nav>
+      </nav>
 
 <h1>Dina Moreno - CSE 341</h1>
 
