@@ -27,6 +27,7 @@ form button {
 }
 
 footer{
+    padding: .5em;
     background-color: #212529;
     height: 3em;
     color: white;

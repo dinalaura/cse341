@@ -33,7 +33,7 @@ Welcome to my Heroku app. Here I will share some of my work on backend developme
 <?php
 // phpinfo();
 echo "Today is " . date(l) . " ";
-echo date("Y-m-d") . " The times is " . date("h:i:sa");
+echo date("Y-m-d") . " The time is " . date("h:i:sa");
 ?>
 </footer>
 
