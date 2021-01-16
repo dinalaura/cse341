@@ -23,7 +23,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img src="web/foto.jpg" class="card-img-top" alt="Dina's picture">
+  <img src="/foto.jpg" class="card-img-top" alt="Dina's picture">
   <div class="card-body">
     <p class="card-text">Hello Everyone! <br>
 Welcome to my Heroku app. Here I will share some of my work on backend development. I'm learning PHP and jQuery; last semester, I learned JavaScript and Advanced CSS. Also, I'm learning English as I go with this project. I built this homepage using HTML, PHP, CSS, and Bootstrap. I'll add all of my work above on the "Assignments link."</p>
