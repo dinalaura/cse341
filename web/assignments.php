@@ -12,7 +12,7 @@
         <nav class="navbar navbar-light">
             <form class="container-fluid justify-content-start">
              <a href="https://dina-moreno-cse341.herokuapp.com/"> <button class="btn btn-outline-success me-2" type="button">Dina Moreno</button></a>
-             <a href="https://dina-moreno-cse341.herokuapp.com/assignments.html"> <button class="btn btn-sm btn-outline-secondary" type="button">Assignments</button> </a>
+             <a href="https://dina-moreno-cse341.herokuapp.com/assignments.php"> <button class="btn btn-sm btn-outline-secondary" type="button">Assignments</button> </a>
             </form>
           </nav>
       </nav>
