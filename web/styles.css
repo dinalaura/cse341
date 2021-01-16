@@ -2,15 +2,15 @@ form button {
     color:white !important;
 }
 
-h1{
+#header h1{
     font-size: 5em;
 }
 
-h2{
+#header h2{
     font-size: 2em;
 }
 
-h1, h2{
+#header h1, h2{
     font-weight: lighter;
 }
 
