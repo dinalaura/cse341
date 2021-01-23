@@ -26,7 +26,8 @@
     </div>
     <ul>
         <li>
-            <a href="https://dina-moreno-cse341.herokuapp.com/cart.php"></a>
+            <a href="https://dina-moreno-cse341.herokuapp.com/cart.php">
+        Shopping Cart</a>
         </li>
     </ul>
     <footer>
