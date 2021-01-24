@@ -17,3 +17,7 @@ text-align: center;
   .grid-container > div {
     margin: 60px;
   }
+
+  img{
+    size: 225px;
+  }
