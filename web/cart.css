@@ -1,0 +1,19 @@
+.card .card-body a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+color:white;
+text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 60px;
+  }
+  
+  .grid-container > div {
+    margin: 60px;
+  }
