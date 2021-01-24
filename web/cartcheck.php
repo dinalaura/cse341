@@ -22,10 +22,10 @@
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://dina-moreno-cse341.herokuapp.com/viewcart.php">View Cart</a>
+          <a class="nav-link" href="https://dina-moreno-cse341.herokuapp.com/cartview.php">View Cart</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://dina-moreno-cse341.herokuapp.com/checkout.php">Checkout</a>
+          <a class="nav-link" href="https://dina-moreno-cse341.herokuapp.com/cartcheck.php">Checkout</a>
         </li>
       </ul>
     </div>
