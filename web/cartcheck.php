@@ -19,13 +19,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="https://dina-moreno-cse341.herokuapp.com/cart.php">Home</a>
+          <a class="nav-link" aria-current="page" href="https://dina-moreno-cse341.herokuapp.com/cart.php">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://dina-moreno-cse341.herokuapp.com/cartview.php">View Cart</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://dina-moreno-cse341.herokuapp.com/cartcheck.php">Checkout</a>
+          <a class="nav-link active" href="https://dina-moreno-cse341.herokuapp.com/cartcheck.php">Checkout</a>
         </li>
       </ul>
     </div>
